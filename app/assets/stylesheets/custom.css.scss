@@ -16,12 +16,16 @@ $navbar-default-bg: #f12711;
   text-decoration: none;
 }
 
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
 .center {
   text-align: center;
 }
 
 .jumbotron {
-  background-image: asset-url('photo.jpeg');
+  background-image: asset-url('code.jpg');
   background-size: cover;
   height: 550px;
 }
