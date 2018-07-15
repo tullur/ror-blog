@@ -1,4 +1,4 @@
-$navbar-default-bg: #f12711;
+$navbar-default-bg: #e52d27;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -40,12 +40,13 @@ $navbar-default-bg: #f12711;
 
 .btn-xlarge {
   font-size: 1.7em;
-  background-color: #f12711;
+  background-color: #e52d27;
   color: #fff;
 }
 
 .btn-xlarge:hover {
-  background-color: #f5af19;
+  color: #fff;
+  background-color: #b31217;
 }
 
 .article-actions {
