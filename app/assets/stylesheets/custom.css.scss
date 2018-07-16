@@ -103,3 +103,11 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .pagination > .active > span, .pagination > .active > span:hover, .pagination > .active > span:focus {
+    z-index: 3;
+    color: #fff;
+    background-color: #d21f19;
+    border-color: #d21f19;
+    cursor: default;
+}
