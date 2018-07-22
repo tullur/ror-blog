@@ -31,6 +31,8 @@ gem 'bcrypt', '~> 3.1.7'
 # Pagination gem
 gem 'will_paginate', '~> 3.1.0'
 gem 'bootstrap-will_paginate', '1.0.0'
+#Test gem
+gem 'rails-controller-testing'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
